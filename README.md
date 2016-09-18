@@ -14,14 +14,14 @@ https://github.com/jhu-ep-coursera/fullstack-course5/tree/master/assignments/ass
 https://github.com/fernando-bernardino/module1-solution
 
 # Author #
-**Name:** Fernando Bernardino
-**Email:** tony.bernardino@gmail.com
-**GitHub:** fernando-bernardino
+  **Name:** Fernando Bernardino
+  **Email:** tony.bernardino@gmail.com
+  **GitHub:** fernando-bernardino
 
 # Project description #
-/src
-  index.html - starting webpage
-  /fonts - fonts directory
-  /js - javascript source code for the Module
-  /lib - AngularJS library
-  /style - CCS styles
+  /src
+    index.html - starting webpage
+    /fonts - fonts directory
+    /js - javascript source code for the Module
+    /lib - AngularJS library
+    /style - CCS styles
